@@ -18,14 +18,3 @@ LeagueInsight is a lightweight, real-time match stats overlay for League of Lege
 2. Install LeagueInsight from the Overwolf App Store (Coming Soon).  
 3. Launch League of Legends and press `Ctrl + X` in-game to see stats.  
 
-## Development  
-### Requirements  
-- Node.js  
-- Overwolf SDK  
-- Riot Games API Key  
-
-### Setup  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/LeagueInsight.git  
-   cd LeagueInsight  
